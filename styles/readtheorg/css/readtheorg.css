@@ -966,6 +966,20 @@ footer p{
     font-style:italic;
 }
 
+.kaobox{
+    border-left:5px solid #6AB0DE;
+    background-color: #E7F2FA;
+    padding: 6px 20px;
+    font-style:italic;
+}
+
+.kaowarn{
+    border-left:5px solid #Cd5555;
+    background-color: #Ff6a6a;
+    padding: 6px 20px;
+    font-style:italic;
+}
+
 #content .note .last,#content .attention .last,#content .caution .last,#content .danger .last,#content .error .last,#content .hint .last,#content .important .last,#content .tip .last,#content .warning .last,#content .seealso .last,#content .admonitiontodo .last{
     margin-bottom:0}
 
